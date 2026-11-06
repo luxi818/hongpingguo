@@ -29,7 +29,7 @@
       episodes: 260,
       tags: ["脑洞", "重生", "系统"],
       category: "脑洞",
-      cover: "https://images.unsplash.com/重生之我救郭靖.jpg?w=400&h=560&fit=crop&q=80"
+      cover: "./assets/images/重生之我救郭靖.jpg?w=400&h=560&fit=crop&q=80"
     },
     {
       id: 4,
@@ -85,7 +85,7 @@
       episodes: 58,
       tags: ["家庭", "家庭伦理", "逆风翻盘"],
       category: "家庭",
-      cover: "/assets/images/be0364cb-1c8b-4957-a44e-9ff1a63f8d70.jpg?w=400&h=560&fit=crop&q=80"
+      cover: "./assets/images/be0364cb-1c8b-4957-a44e-9ff1a63f8d70.jpg?w=400&h=560&fit=crop&q=80"
     },
     {
       id: 11,
@@ -93,7 +93,7 @@
       episodes: 168,
       tags: ["脑洞", "穿越", "求生"],
       category: "脑洞",
-      cover: "https://images.unsplash.com/重生之我救郭靖.jpg?w=400&h=560&fit=crop&q=80"
+      cover: "./assets/images/重生之我救郭靖.jpg?w=400&h=560&fit=crop&q=80"
     },
     {
       id: 12,
